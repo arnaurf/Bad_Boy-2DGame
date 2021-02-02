@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main_screen.cpp
+c:\users\arnau\documents\upf\jocs electronics\tje2019_2d\src\image.h(62): warning C4018: '>=': signed/unsigned mismatch
+c:\users\arnau\documents\upf\jocs electronics\tje2019_2d\src\image.h(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\arnau\documents\upf\jocs electronics\tje2019_2d\src\image.h(107): warning C4018: '<': signed/unsigned mismatch
+entity.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  visual.vcxproj -> C:\Users\Arnau\Documents\UPF\Jocs electronics\TJE2019_2D\visual\visual\..\..\application.exe
